@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vRuby.Core.NetCf35", "vRuby.Core\vRuby.Core.NetCf35.csproj", "{361780F1-4300-4A1C-AF34-8248A3E391F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vRuby.StandardLibrary.NetCf35", "vRuby.StandardLibrary\vRuby.StandardLibrary.NetCf35.csproj", "{129DC43B-CB04-4514-B85E-4CED90EC6F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361780F1-4300-4A1C-AF34-8248A3E391F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361780F1-4300-4A1C-AF34-8248A3E391F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361780F1-4300-4A1C-AF34-8248A3E391F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361780F1-4300-4A1C-AF34-8248A3E391F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129DC43B-CB04-4514-B85E-4CED90EC6F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129DC43B-CB04-4514-B85E-4CED90EC6F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129DC43B-CB04-4514-B85E-4CED90EC6F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129DC43B-CB04-4514-B85E-4CED90EC6F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
